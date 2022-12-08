@@ -1,0 +1,17 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# log pictures
+e*.jpg
+finished*.jpg
+
+# Q-table-saves
+*.npy
+
+# cache files
+*cache*/
+__pycache__/
+.ipynb_checkpoints/
